@@ -1,9 +1,5 @@
 /*
  * HARSH SHAKYA
- * FEB 17, 2022
- * COMP SCI ASSIGNMENT 2 
- * SIMPLE ENCRYPTION
- * Mr. Martins 
  */
 package SimpleEncryptionHarsh;
 import java.util.*; // Imports every single class in Java
